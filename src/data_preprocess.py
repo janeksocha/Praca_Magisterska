@@ -215,10 +215,6 @@ def main():
         index=False
     )
 
-    print("ZAKOŃCZONO PREPROCESSING")
-    print(f"\nZapisano:")
-    print(OUTPUT_FILE)
-
 
 if __name__ == "__main__":
     main()
