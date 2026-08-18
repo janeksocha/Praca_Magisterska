@@ -179,10 +179,6 @@ def build_models():
 
 def main():
 
-    print("=" * 40)
-    print("MACHINE LEARNING ANALYSIS")
-    print("=" * 40)
-
     df = load_data()
 
     print(
