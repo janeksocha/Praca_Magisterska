@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scipy
+neurokit2
+PyWavelets
+openpyxl

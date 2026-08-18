@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# Dane pomiarowe i wyniki
+data/
+results/
+exportToHTML/
+# Archiwa
+*.zip
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
